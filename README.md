@@ -69,12 +69,3 @@ To contribute to the project, please follow these steps:
 3. Make changes and commit them using `git commit`
 4. Push the changes to the remote repository using `git push`
 5. Create a pull request to merge the changes into the main branch
-
-## 📝 License
-The project is licensed under the MIT License.
-
-## 📬 Contact
-For any questions or concerns, please contact us at [support@example.com](mailto:support@example.com).
-
-## 💖 Thanks Message
-This project is made possible by the contributions of many individuals. We would like to thank everyone who has contributed to the project. This is written by [readme.ai](https://readme-generator-phi.vercel.app/).
